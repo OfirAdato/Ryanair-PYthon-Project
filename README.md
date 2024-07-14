@@ -16,7 +16,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 | Technologies      | Description |
 | ----------- | ----------- |
 | **Python:**      | The project is developed using Python, providing a robust and widely used programming language for automation.       |
-| **Pytest:**   | Pytest is used as the testing framework, offering powerful test configuration options, parallel execution, and detailed reporting.        |
+| **Pytest:**   | Pytest is used as the testing framework, offering powerful test configuration options.        |
 | **Selenium WebDriver:**   | The project includes Selenium WebDriver for automating browser interactions        |
 | **Page Object Model (POM):**   | The project follows the POM design pattern, enhancing test maintainability and reusability by separating page elements and actions.       
 
