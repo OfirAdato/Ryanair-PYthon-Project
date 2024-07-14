@@ -23,7 +23,6 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📖 Prerequisites
 
-- PyCharm frame work.
 - Selenuim library.
 - Pytest library.
 
