@@ -1,4 +1,3 @@
-<a href="https://www.youtube.com/watch?v=YxbPm6CcVY0&t=2s" target="_blank">
     <img src="https://lobbymap.org/site//data/001/361/1361229.png" alt="Ryanair" title="Ryanair" align="right" height="60" />
 </a>
 
