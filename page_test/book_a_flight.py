@@ -8,8 +8,7 @@ from page_object.MainPage import MainPage
 from page_object.Seats import Seats
 
 
-@pytest.mark.usefixtures("driverd")
-class TestRyanair:
+class TestRyanair(BaseTest):
     def test_book_a_flight(self, driverd):
         base_page = BasePage(driverd)
         main_page = MainPage(driverd)
